@@ -6,4 +6,4 @@ Meu nome é Murilo Aragon sou do Brasil e trabalho com desenvolvedor desde 2012,
 
 Você gostaria de me encontrar?
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/omariosouto](https://www.linkedin.com/in/murilo-aragon-62194438/))]([[https://www.linkedin.com/in/omariosouto](https://www.linkedin.com/in/murilo-aragon-62194438)](https://www.linkedin.com/in/murilo-aragon-62194438/))
+[![Linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/murilo-aragon-62194438)
