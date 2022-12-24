@@ -1,6 +1,9 @@
+
+[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-personal-page.svg)](https://vshymanskyy.github.io/StandWithUkraine)
+
 ### Olá, peaple 👋
 
-Meu nome é Murilo Aragon sou do Brasil e trabalho com desenvolvedor desde 2012, atualmente trabalho como IT Lead no banco Santander.
+Meu nome é Murilo Aragon sou do Brasil e trabalho com desenvolvedor desde 2012, OPENSOURCE por diversão 
 
 
 Você gostaria de me encontrar?
